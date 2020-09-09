@@ -1,0 +1,11 @@
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\obj\Release\Test OpenTK.csproj.CoreCompileInputs.cache
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\obj\Release\Test OpenTK.csprojAssemblyReference.cache
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\bin\Release\Test OpenTK.exe.config
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\bin\Release\Test OpenTK.exe
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\bin\Release\Test OpenTK.pdb
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\bin\Release\OpenTK.dll
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\bin\Release\OpenTK.pdb
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\bin\Release\OpenTK.xml
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\obj\Release\Test OpenTK.csproj.CopyComplete
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\obj\Release\Test OpenTK.exe
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\obj\Release\Test OpenTK.pdb

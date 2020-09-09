@@ -1,0 +1,2 @@
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\obj\Debug\Test OpenTK.csprojAssemblyReference.cache
+C:\Users\Unit6\source\repos\Test OpenTK\Test OpenTK\obj\Debug\Test OpenTK.csproj.CoreCompileInputs.cache
